@@ -1,3 +1,4 @@
+// package procmaps provides a parser for the /proc maps format
 package procmaps
 
 import (
